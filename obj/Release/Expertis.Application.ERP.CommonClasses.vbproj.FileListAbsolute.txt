@@ -1,0 +1,128 @@
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Application.ERP.CommonClasses.dll
+C:\Builds\2\Producto\Expertis50R2_Release\bin\Release\Expertis.Application.ERP.CommonClasses.pdb
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmArtCodifComp.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmSelectDaa.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmHistoricoPreciosClieProv.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmMostrarErrores.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmFacturacionProvisional.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.Analitica.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddInformacionCheque.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddInformacionTarjeta.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmContactoEmpresa.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmExecutePresentationTasks.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmFechaCalcPrecioOptimo.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmImpuestos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CIEntidadFoto.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CtrlImage.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CtrlTimeLineObras.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmConfigTimeLineObras.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.DetalleActualizacionStock.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.DiarioAnalitica.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FormularioTexto.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosBase.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosEspecifico.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosGeneral.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddBanco.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddDireccion.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAlbaranProvisional.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAltaCuenta.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmAnalisisRiesgo.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmAnalisisRiesgoAlquiler.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmConvertirEmpresaEnCliente.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmConvertirEmpresaEnProveedor.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmCopiaObra.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmCopiaObraPresup.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmdatostransporte.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmEmpresaExportacion.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmListImage.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmErroresMedidasCont.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmGeneraVencimientos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmGetEmpresas.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmImagen.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmMateriales.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmPeriodos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmPersonaContacto.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmProgresoProceso.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmRelacionesAnaliticaNiveles.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmVerEntregasACuenta.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.GridAnaliticaNivel.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LogProcesos.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteStockableUserDialog.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteUserDialog.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteUserDialogBase.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieSeleccion.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieSituacion.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieStockableUserDialog.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieStockableUserDialogIN.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.Representantes.resources
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.vbproj.GenerateResource.Cache
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.dll.licenses
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.dll
+C:\Builds\2\Producto\Expertis50R2_Release\src\Main\Source\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Application.ERP.CommonClasses.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\Bin\Expertis.Application.ERP.CommonClasses.pdb
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.CommonClasses.dll
+C:\ExpertisNet50R2test\Bin\Expertis.Application.ERP.CommonClasses.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmArtCodifComp.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmSelectDaa.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmHistoricoPreciosClieProv.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmMostrarErrores.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmFacturacionProvisional.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.Analitica.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddInformacionCheque.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddInformacionTarjeta.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmContactoEmpresa.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmExecutePresentationTasks.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmFechaCalcPrecioOptimo.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmImpuestos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CIEntidadFoto.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CtrlImage.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.CtrlTimeLineObras.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmConfigTimeLineObras.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.DetalleActualizacionStock.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.DiarioAnalitica.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FormularioTexto.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosBase.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosEspecifico.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmActualizarPreciosGeneral.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddBanco.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAddDireccion.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAlbaranProvisional.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmAltaCuenta.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmAnalisisRiesgo.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmAnalisisRiesgoAlquiler.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmConvertirEmpresaEnCliente.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmConvertirEmpresaEnProveedor.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmCopiaObra.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmCopiaObraPresup.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmdatostransporte.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmEmpresaExportacion.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmListImage.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmErroresMedidasCont.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmGeneraVencimientos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmGetEmpresas.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmImagen.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmMateriales.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmPeriodos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmPersonaContacto.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmProgresoProceso.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.FrmRelacionesAnaliticaNiveles.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmVerEntregasACuenta.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.GridAnaliticaNivel.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LogProcesos.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteStockableUserDialog.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteUserDialog.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.LoteUserDialogBase.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieSeleccion.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieSituacion.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieStockableUserDialog.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.NSerieStockableUserDialogIN.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.Representantes.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.vbproj.GenerateResource.Cache
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.dll.licenses
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.dll
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Expertis.Application.ERP.CommonClasses.pdb
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.frmPersonaContacto2.resources
+C:\Users\lgonzalez\Desktop\EXPERTIS\DESARROLLO EXPERTIS\FR2Sergio\Application\Expertis.Application.ERP.CommonClasses\obj\Release\Solmicro.Expertis.Application.ERP.CommonClasses.DetalleActualizacionPagoPisos.resources

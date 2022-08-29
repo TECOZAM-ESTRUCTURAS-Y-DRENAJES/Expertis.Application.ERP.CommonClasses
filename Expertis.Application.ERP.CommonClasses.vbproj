@@ -1,0 +1,688 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11199E7E-D680-4B07-8AB0-37BEE6091F74}</ProjectGuid>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccProvider>
+    </SccProvider>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>Expertis.Application.ERP.CommonClasses</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <AssemblyOriginatorKeyMode>None</AssemblyOriginatorKeyMode>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <OptionCompare>Text</OptionCompare>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionStrict>Off</OptionStrict>
+    <RootNamespace>Solmicro.Expertis.Application.ERP.CommonClasses</RootNamespace>
+    <StartupObject>Solmicro.Expertis.Application.ERP.CommonClasses.%28Ninguno%29</StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <MyType>Windows</MyType>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <SccAuxPath>
+    </SccAuxPath>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>C:\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>pdbonly</DebugType>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\..\..\..\..\..\..\..\ExpertisNet50R2test\Bin\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>
+    </DefineConstants>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <DebugSymbols>true</DebugSymbols>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>42016,42017,42018,42019,42032</NoWarn>
+    <DebugType>full</DebugType>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Expertis.Application.ERP.MntoActivo, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="Expertis.Business.Bodega, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.BusinessEnum">
+      <Name>Expertis.Business.BusinessEnum</Name>
+      <HintPath>..\..\..\Bin\Expertis.Business.BusinessEnum.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.CRM">
+      <Name>Expertis.Business.CRM</Name>
+      <HintPath>..\..\..\Bin\Expertis.Business.CRM.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.EMCS, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Ficheros, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Financiero, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.GD, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.General, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Mnto">
+      <Name>Expertis.Business.Mnto</Name>
+      <HintPath>..\..\..\Bin\Expertis.Business.Mnto.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Negocio, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Business.Obra, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\ExpertisNet50R2test\Bin\Expertis.Business.Obra.dll</HintPath>
+    </Reference>
+    <Reference Include="Expertis.Business.Pisos, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.BE.BusinessEngine">
+      <Name>Expertis.Engine.BE.BusinessEngine</Name>
+      <HintPath>..\..\..\Bin\Expertis.Engine.BE.BusinessEngine.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.Global">
+      <Name>Expertis.Engine.Global</Name>
+      <HintPath>..\..\..\Bin\Expertis.Engine.Global.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.UI.CommonClasses">
+      <Name>Expertis.Engine.UI.CommonClasses</Name>
+      <HintPath>..\..\..\Bin\Expertis.Engine.UI.CommonClasses.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.UI.Resources">
+      <Name>Expertis.Engine.UI.Resources</Name>
+      <HintPath>..\..\..\Bin\Expertis.Engine.UI.Resources.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Expertis.Engine.UI.WinControls">
+      <Name>Expertis.Engine.UI.WinControls</Name>
+      <HintPath>..\..\..\Bin\Expertis.Engine.UI.WinControls.dll</HintPath>
+      <AssemblyFolderKey>hklm\expertis.engine</AssemblyFolderKey>
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Janus.Data.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Janus.Windows.ButtonBar.v3, Version=3.5.109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.CalendarCombo.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Janus.Windows.Common.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Janus.Windows.ExplorerBar.v3, Version=3.5.109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.FilterEditor.v3, Version=3.5.109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.GridEX.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Janus.Windows.Schedule.v3, Version=3.5.109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL" />
+    <Reference Include="Janus.Windows.TimeLine.v3, Version=3.5.109.0, Culture=neutral, PublicKeyToken=21d5517571b185bf" />
+    <Reference Include="Janus.Windows.UI.v3, Version=3.5.0.0, Culture=neutral, PublicKeyToken=21d5517571b185bf, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic">
+      <Name>Microsoft.VisualBasic</Name>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing">
+      <Name>System.Drawing</Name>
+    </Reference>
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Janus.Windows.GridEX" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="Solmicro.Expertis.Business" />
+    <Import Include="Solmicro.Expertis.Business.Bodega" />
+    <Import Include="Solmicro.Expertis.Business.BusinessEnum" />
+    <Import Include="Solmicro.Expertis.Business.CRM" />
+    <Import Include="Solmicro.Expertis.Business.EMCS" />
+    <Import Include="Solmicro.Expertis.Business.Ficheros" />
+    <Import Include="Solmicro.Expertis.Business.Financiero" />
+    <Import Include="Solmicro.Expertis.Business.GD" />
+    <Import Include="Solmicro.Expertis.Business.General" />
+    <Import Include="Solmicro.Expertis.Business.Mnto" />
+    <Import Include="Solmicro.Expertis.Business.Negocio" />
+    <Import Include="Solmicro.Expertis.Business.Obra" />
+    <Import Include="Solmicro.Expertis.Engine" />
+    <Import Include="Solmicro.Expertis.Engine.UI" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.drawing" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Net" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Bodega\frmArtCodifComp.Designer.vb">
+      <DependentUpon>frmArtCodifComp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bodega\frmArtCodifComp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bodega\frmSelectDAA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\FicherosDinamicos.vb" />
+    <Compile Include="Comunes\FrmHistoricoPreciosClieProv.Designer.vb">
+      <DependentUpon>FrmHistoricoPreciosClieProv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\FrmHistoricoPreciosClieProv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\GetQueryMultipleDB.vb" />
+    <Compile Include="Comunes\frmMostrarErrores.Designer.vb">
+      <DependentUpon>frmMostrarErrores.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\frmMostrarErrores.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DetalleActualizacionPagoPisos.Designer.vb">
+      <DependentUpon>DetalleActualizacionPagoPisos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DetalleActualizacionPagoPisos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FacturacionVenta\frmFacturacionProvisional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\AltaPlanContable.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Financiero\Analitica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AssemblyInfo.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Financiero\frmAddInformacionCheque.Designer.vb">
+      <DependentUpon>frmAddInformacionCheque.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Financiero\frmAddInformacionCheque.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\frmAddInformacionTarjeta.Designer.vb">
+      <DependentUpon>frmAddInformacionTarjeta.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Financiero\frmAddInformacionTarjeta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmContactoEmpresa.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmExecutePresentationTasks.Designer.vb">
+      <DependentUpon>frmExecutePresentationTasks.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmExecutePresentationTasks.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmFechaCalcPrecioOptimo.Designer.vb">
+      <DependentUpon>frmFechaCalcPrecioOptimo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmFechaCalcPrecioOptimo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmImpuestos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonaContacto2.Designer.vb">
+      <DependentUpon>frmPersonaContacto2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPersonaContacto2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imagenes\CIEntidadFoto.Designer.vb">
+      <DependentUpon>CIEntidadFoto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes\CIEntidadFoto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\CommonMembers.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Imagenes\CtrlImage.Designer.vb">
+      <DependentUpon>CtrlImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes\CtrlImage.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DesgloseBase.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DesgloseGeneral.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Obras\Control TimeLine Obras\CtrlTimeLineObras.Designer.vb">
+      <DependentUpon>CtrlTimeLineObras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Obras\Control TimeLine Obras\CtrlTimeLineObras.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Obras\Control TimeLine Obras\FrmConfigTimeLineObras.Designer.vb">
+      <DependentUpon>FrmConfigTimeLineObras.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Obras\Control TimeLine Obras\FrmConfigTimeLineObras.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\DetalleActualizacionStock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\DiarioAnalitica.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\FormularioTexto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\frmActualizarPreciosBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\frmActualizarPreciosEspecifico.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\frmActualizarPreciosGeneral.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\frmAddBanco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddDireccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAlbaranProvisional.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\frmAltaCuenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riesgo\FrmAnalisisRiesgo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riesgo\FrmAnalisisRiesgoAlquiler.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvertirEmpresa\frmConvertirEmpresaEnCliente.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConvertirEmpresa\frmConvertirEmpresaEnProveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\FrmCopiaObra.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\frmCopiaObraPresup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDatosTransporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpresaExportacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imagenes\frmListImage.Designer.vb">
+      <DependentUpon>frmListImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes\frmListImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmErroresMedidasCont.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Obras\FrmGeneraVencimientos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGetEmpresas.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Imagenes\frmImagen.Designer.vb">
+      <DependentUpon>frmImagen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Imagenes\frmImagen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMateriales.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPeriodos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPersonaContacto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\FrmProgesoProceso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\FrmRelacionesAnaliticaNiveles.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmVerEntregasACuenta.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Financiero\GridAnaliticaNivel.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\LogProcesos.Designer.vb">
+      <DependentUpon>LogProcesos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Comunes\LogProcesos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\Lotes\Lote.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Stocks\Lotes\LoteCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Stocks\Lotes\LoteStockableUserDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\Lotes\LoteUserDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\Lotes\LoteUserDialogBase.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerie.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerieCollection.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerieSeleccion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerieSituacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerieStockableUserDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\NSerieStockableUserDialogIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comunes\NumberToString.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Representantes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riesgo\RiesgoCliente.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Stocks\NSerie\StockDataManager.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Bodega\frmArtCodifComp.resx">
+      <DependentUpon>frmArtCodifComp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bodega\frmSelectDAA.resx">
+      <DependentUpon>frmSelectDAA.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\FrmHistoricoPreciosClieProv.resx">
+      <DependentUpon>FrmHistoricoPreciosClieProv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\frmMostrarErrores.resx">
+      <DependentUpon>frmMostrarErrores.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DetalleActualizacionPagoPisos.resx">
+      <DependentUpon>DetalleActualizacionPagoPisos.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FacturacionVenta\frmFacturacionProvisional.resx">
+      <DependentUpon>frmFacturacionProvisional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\Analitica.resx">
+      <DependentUpon>Analitica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\frmAddInformacionCheque.resx">
+      <DependentUpon>frmAddInformacionCheque.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\frmAddInformacionTarjeta.resx">
+      <DependentUpon>frmAddInformacionTarjeta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmContactoEmpresa.resx">
+      <DependentUpon>FrmContactoEmpresa.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmExecutePresentationTasks.resx">
+      <DependentUpon>frmExecutePresentationTasks.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmFechaCalcPrecioOptimo.resx">
+      <DependentUpon>frmFechaCalcPrecioOptimo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmImpuestos.resx">
+      <DependentUpon>frmImpuestos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonaContacto2.resx">
+      <DependentUpon>frmPersonaContacto2.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes\CIEntidadFoto.resx">
+      <DependentUpon>CIEntidadFoto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes\CtrlImage.resx">
+      <DependentUpon>CtrlImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\Control TimeLine Obras\CtrlTimeLineObras.resx">
+      <DependentUpon>CtrlTimeLineObras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\Control TimeLine Obras\FrmConfigTimeLineObras.resx">
+      <DependentUpon>FrmConfigTimeLineObras.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\DetalleActualizacionStock.resx">
+      <DependentUpon>DetalleActualizacionStock.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\DiarioAnalitica.resx">
+      <DependentUpon>DiarioAnalitica.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\FormularioTexto.resx">
+      <DependentUpon>FormularioTexto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\frmActualizarPreciosBase.resx">
+      <DependentUpon>frmActualizarPreciosBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\frmActualizarPreciosEspecifico.resx">
+      <DependentUpon>frmActualizarPreciosEspecifico.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\frmActualizarPreciosGeneral.resx">
+      <DependentUpon>frmActualizarPreciosGeneral.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\frmAddBanco.resx">
+      <DependentUpon>frmAddBanco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddDireccion.resx">
+      <DependentUpon>frmAddDireccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAlbaranProvisional.resx">
+      <DependentUpon>frmAlbaranProvisional.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\frmAltaCuenta.resx">
+      <DependentUpon>frmAltaCuenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Riesgo\FrmAnalisisRiesgo.resx">
+      <DependentUpon>FrmAnalisisRiesgo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Riesgo\FrmAnalisisRiesgoAlquiler.resx">
+      <DependentUpon>FrmAnalisisRiesgoAlquiler.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConvertirEmpresa\frmConvertirEmpresaEnCliente.resx">
+      <DependentUpon>frmConvertirEmpresaEnCliente.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConvertirEmpresa\frmConvertirEmpresaEnProveedor.resx">
+      <DependentUpon>frmConvertirEmpresaEnProveedor.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\FrmCopiaObra.resx">
+      <DependentUpon>FrmCopiaObra.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\frmCopiaObraPresup.resx">
+      <DependentUpon>frmCopiaObraPresup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDatosTransporte.resx">
+      <DependentUpon>FrmDatosTransporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpresaExportacion.resx">
+      <DependentUpon>FrmEmpresaExportacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes\frmListImage.resx">
+      <DependentUpon>frmListImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmErroresMedidasCont.resx">
+      <DependentUpon>frmErroresMedidasCont.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Obras\FrmGeneraVencimientos.resx">
+      <DependentUpon>FrmGeneraVencimientos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGetEmpresas.resx">
+      <DependentUpon>frmGetEmpresas.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Imagenes\frmImagen.resx">
+      <DependentUpon>frmImagen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMateriales.resx">
+      <DependentUpon>FrmMateriales.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPeriodos.resx">
+      <DependentUpon>FrmPeriodos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPersonaContacto.resx">
+      <DependentUpon>frmPersonaContacto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\FrmProgesoProceso.resx">
+      <DependentUpon>FrmProgesoProceso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\FrmRelacionesAnaliticaNiveles.resx">
+      <DependentUpon>FrmRelacionesAnaliticaNiveles.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmVerEntregasACuenta.resx">
+      <DependentUpon>frmVerEntregasACuenta.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Financiero\GridAnaliticaNivel.resx">
+      <DependentUpon>GridAnaliticaNivel.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comunes\LogProcesos.resx">
+      <DependentUpon>LogProcesos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\Lotes\LoteStockableUserDialog.resx">
+      <DependentUpon>LoteStockableUserDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\Lotes\LoteUserDialog.resx">
+      <DependentUpon>LoteUserDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\Lotes\LoteUserDialogBase.resx">
+      <DependentUpon>LoteUserDialogBase.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="Stocks\NSerie\NSerieSeleccion.resx">
+      <DependentUpon>NSerieSeleccion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\NSerie\NSerieSituacion.resx">
+      <DependentUpon>NSerieSituacion.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\NSerie\NSerieStockableUserDialog.resx">
+      <DependentUpon>NSerieStockableUserDialog.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stocks\NSerie\NSerieStockableUserDialogIN.resx">
+      <DependentUpon>NSerieStockableUserDialogIN.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Representantes.resx">
+      <DependentUpon>Representantes.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

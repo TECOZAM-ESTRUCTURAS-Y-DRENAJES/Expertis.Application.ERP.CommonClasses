@@ -1,0 +1,9 @@
+﻿<UserControl x:Class="CtrlGraphic"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Width="701" Height="413" xmlns:igCA="http://infragistics.com/Chart" >
+    <Grid Height="412">
+        <igCA:XamChart Name="ChartGraphic" Theme="ThemePark" View3D="False" Visibility="Hidden" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch">
+           
+        </igCA:XamChart>
+    </Grid>
+</UserControl>

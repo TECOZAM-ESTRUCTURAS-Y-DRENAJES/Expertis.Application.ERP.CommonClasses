@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="cmbImprimir.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="jngPedidos_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;Fecha&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;79&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Pedido"&gt;&lt;Caption&gt;Pedido&lt;/Caption&gt;&lt;DataMember&gt;Pedido&lt;/DataMember&gt;&lt;Key&gt;Pedido&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="Importe"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;Importe&lt;/Caption&gt;&lt;DataMember&gt;Importe&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;Importe&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;92&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;0&lt;/Width&gt;&lt;/Column3&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;3&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngAlbaranes_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;Fecha&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;79&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Albaran"&gt;&lt;Caption&gt;Albarán&lt;/Caption&gt;&lt;DataMember&gt;Albaran&lt;/DataMember&gt;&lt;Key&gt;Albaran&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;61&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="NAlbaran"&gt;&lt;Caption&gt;Albarán&lt;/Caption&gt;&lt;DataMember&gt;NAlbaran&lt;/DataMember&gt;&lt;Key&gt;NAlbaran&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;81&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="Importe"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;Importe&lt;/Caption&gt;&lt;DataMember&gt;Importe&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;Importe&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;82&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column4&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;4&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngFacturas_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;Fecha&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;79&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Factura"&gt;&lt;Caption&gt;Factura&lt;/Caption&gt;&lt;DataMember&gt;Factura&lt;/DataMember&gt;&lt;Key&gt;Factura&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;81&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="Importe"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;Importe&lt;/Caption&gt;&lt;DataMember&gt;Importe&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;Importe&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;82&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column3&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;3&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngCobros_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha V"&gt;&lt;Caption&gt;Fecha Vto.&lt;/Caption&gt;&lt;DataMember&gt;Fecha V&lt;/DataMember&gt;&lt;Key&gt;Fecha V&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;78&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Factura"&gt;&lt;Caption&gt;Factura&lt;/Caption&gt;&lt;DataMember&gt;Factura&lt;/DataMember&gt;&lt;Key&gt;Factura&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="Importe"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;Importe&lt;/Caption&gt;&lt;DataMember&gt;Importe&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;Importe&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column3&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;3&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="gridAlquiler_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="FechaUltimaFactura"&gt;&lt;Caption&gt;Fecha Ult.Fact.&lt;/Caption&gt;&lt;DataMember&gt;FechaUltimaFactura&lt;/DataMember&gt;&lt;Key&gt;FechaUltimaFactura&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;Width&gt;95&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="NObra"&gt;&lt;Caption&gt;Alquiler&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;Key&gt;NObra&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;Width&gt;75&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="Importe"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;Importe&lt;/Caption&gt;&lt;DataMember&gt;Importe&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;Importe&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;EditType&gt;NoEdit&lt;/EditType&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column3&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;3&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngGastos_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;FechaVencimiento&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Albaran"&gt;&lt;Caption&gt;OBRA&lt;/Caption&gt;&lt;DataMember&gt;IDObra&lt;/DataMember&gt;&lt;Key&gt;Albaran&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;61&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="NAlbaran"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;Key&gt;NAlbaran&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="ImpVencimientoA"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;ImporteA&lt;/Caption&gt;&lt;DataMember&gt;ImpVencimientoA&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;ImpVencimientoA&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column4&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;4&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngMOD_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;FechaVencimiento&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Albaran"&gt;&lt;Caption&gt;Albarán&lt;/Caption&gt;&lt;DataMember&gt;IDObra&lt;/DataMember&gt;&lt;DefaultGroupPrefix&gt;Obra:&lt;/DefaultGroupPrefix&gt;&lt;Key&gt;Albaran&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;61&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="NAlbaran"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;DefaultGroupPrefix&gt;Obra:&lt;/DefaultGroupPrefix&gt;&lt;Key&gt;NAlbaran&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="ImpVencimientoA"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;ImporteA&lt;/Caption&gt;&lt;DataMember&gt;ImpVencimientoA&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;ImpVencimientoA&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column4&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;4&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngMateriales_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha V"&gt;&lt;Caption&gt;Fecha Vto.&lt;/Caption&gt;&lt;DataMember&gt;Fecha Vencimento&lt;/DataMember&gt;&lt;Key&gt;Fecha V&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;83&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Factura"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;Key&gt;Factura&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="ImpVencimientoA"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;ImporteA&lt;/Caption&gt;&lt;DataMember&gt;ImpVencimientoA&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;ImpVencimientoA&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column3&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;3&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngCertificaciones_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;FechaVencimiento&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;87&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Albaran"&gt;&lt;Caption&gt;Obra&lt;/Caption&gt;&lt;DataMember&gt;IDObra&lt;/DataMember&gt;&lt;Key&gt;Albaran&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;61&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="NAlbaran"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;DefaultGroupPrefix&gt;NObra:&lt;/DefaultGroupPrefix&gt;&lt;Key&gt;NAlbaran&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="ImpVencimientoA"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;ImporteA&lt;/Caption&gt;&lt;DataMember&gt;ImpVencimientoA&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;ImpVencimientoA&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;88&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column4&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;4&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="jngHitos_DesignTimeLayout.LayoutString" xml:space="preserve">
+    <value>&lt;GridEXLayoutData&gt;&lt;RootTable&gt;&lt;Columns Collection="true" ElementName="Column"&gt;&lt;Column0 ID="Fecha"&gt;&lt;Caption&gt;Fecha&lt;/Caption&gt;&lt;DataMember&gt;FechaVencimiento&lt;/DataMember&gt;&lt;Key&gt;Fecha&lt;/Key&gt;&lt;Position&gt;0&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Width&gt;84&lt;/Width&gt;&lt;/Column0&gt;&lt;Column1 ID="Albaran"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;IDObra&lt;/DataMember&gt;&lt;Key&gt;Albaran&lt;/Key&gt;&lt;Position&gt;1&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;Width&gt;61&lt;/Width&gt;&lt;/Column1&gt;&lt;Column2 ID="NAlbaran"&gt;&lt;Caption&gt;Proyecto&lt;/Caption&gt;&lt;DataMember&gt;NObra&lt;/DataMember&gt;&lt;Key&gt;NAlbaran&lt;/Key&gt;&lt;Position&gt;2&lt;/Position&gt;&lt;Width&gt;85&lt;/Width&gt;&lt;/Column2&gt;&lt;Column3 ID="ImpVencimiento"&gt;&lt;AggregateFunction&gt;Sum&lt;/AggregateFunction&gt;&lt;Caption&gt;ImporteA&lt;/Caption&gt;&lt;DataMember&gt;ImpVencimientoA&lt;/DataMember&gt;&lt;HeaderAlignment&gt;Far&lt;/HeaderAlignment&gt;&lt;Key&gt;ImpVencimiento&lt;/Key&gt;&lt;Position&gt;3&lt;/Position&gt;&lt;TextAlignment&gt;Far&lt;/TextAlignment&gt;&lt;Width&gt;82&lt;/Width&gt;&lt;/Column3&gt;&lt;Column4 ID="IdCliente"&gt;&lt;Caption&gt;IdCliente&lt;/Caption&gt;&lt;DataMember&gt;IdCliente&lt;/DataMember&gt;&lt;Key&gt;IdCliente&lt;/Key&gt;&lt;Position&gt;4&lt;/Position&gt;&lt;TextAlignment&gt;Near&lt;/TextAlignment&gt;&lt;Visible&gt;False&lt;/Visible&gt;&lt;/Column4&gt;&lt;/Columns&gt;&lt;SortKeys Collection="true" ElementName="SortKey"&gt;&lt;SortKey0 ID="SortKey0"&gt;&lt;ColIndex&gt;0&lt;/ColIndex&gt;&lt;/SortKey0&gt;&lt;/SortKeys&gt;&lt;GroupCondition /&gt;&lt;Groups Collection="true" ElementName="Group"&gt;&lt;Group0 ID="Group0"&gt;&lt;ColIndex&gt;4&lt;/ColIndex&gt;&lt;/Group0&gt;&lt;/Groups&gt;&lt;/RootTable&gt;&lt;/GridEXLayoutData&gt;</value>
+  </data>
+  <data name="pctPeligro.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        9Kye5TfLYvkfLp53dqfPE1QAAAAASUVORK5CYII=
+</value>
+  </data>
+</root>
